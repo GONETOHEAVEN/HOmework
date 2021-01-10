@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="button_5">Buttom_5</string>
+    <string name="button_4">Buttom4</string>
+    <string name="button_3">Buttom3</string>
+    <string name="button_2">Buttom_2</string>
+    <string name="button_1">Buttom_1</string>
+    <string name="input_your_name">input_your_name</string>
+</resources>
